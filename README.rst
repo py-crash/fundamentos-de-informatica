@@ -1,4 +1,4 @@
 Fundamentos de Informática
 ==========================
 
-Estos son los archivos de las clases de Fundamentos de Informática de primer año de Ingeniería Química de la UTN FRRe
+Estos son los archivos de las clases de **Fundamentos de Informática** del primer año de la carrera de Ingeniería Química de la UTN FRRe.
